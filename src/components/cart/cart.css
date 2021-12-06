@@ -1,0 +1,29 @@
+.delete-from-cart{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+
+}
+.delete-from-cart:hover
+{
+    cursor: pointer;
+}
+
+
+
+.delete-from-cart img
+{
+    width: 30px;
+    height: 30px;
+}
+
+
+.total-amount-cart{
+    /* display: block; */
+    background-color: rgb(64, 77, 102);
+    color: white;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 5px;
+    margin-right: 10px;
+}

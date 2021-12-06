@@ -1,0 +1,25 @@
+.loading{
+   margin-top: 100px;
+    
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   opacity: 100%;
+}
+
+
+.refresh-text{
+    margin-top: -35px;
+    font-size: 20px;
+    font-weight: 600;
+    color: red;
+    position: absolute;
+}
+.spinner-border{
+    width: 8rem !important;
+    height: 8rem !important;
+}
+.n{
+    display: none;
+    color: white;
+}

@@ -1,0 +1,16 @@
+.nav-brand-logo{
+    text-shadow: 2px 2px 2px blue;
+    font-size: 30px;
+}
+
+a{
+    text-decoration: none;
+}
+
+@media screen and (min-width:300px) and (max-width:600px) {
+    .nav-brand-logo{
+        text-shadow: 2px 2px 2px blue;
+        font-size: 22px;
+    }
+        
+}
